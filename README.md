@@ -1,0 +1,1 @@
+# MINST_Basit_Yapay_Sinir_Ag-_Olu-turma
