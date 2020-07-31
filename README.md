@@ -7,5 +7,5 @@
   ![MNIST](https://emredurukn.github.io/assets/images/mnist-examples.png)
    
 ### YSA 
-   Yapay sinir ağı için google colabs'da oluşturduğum notebook'da keras kütüphanesi kullanarak en temel anlamda yapay sinir ağı oluşturma işlemlerini gerçekleştirdim. 
+   Yapay sinir ağı için google colab'da oluşturduğum notebook'da keras kütüphanesi kullanarak en temel anlamda yapay sinir ağı oluşturma işlemlerini gerçekleştirdim. 
    
